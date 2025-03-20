@@ -1,0 +1,93 @@
+/* 
+ * Sign-in page styles 
+ * Centers content vertically and horizontally and applies custom button styling
+ */
+
+/* Container styling to center content */
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Form styling */
+.custom-form {
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styling to match the donate button */
+.custom-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+  transition: background-color 0.2s ease;
+}
+
+.custom-button:hover {
+  background-color: #3e8e41; /* Darker green on hover */
+}
+
+/* Input field styling */
+.custom-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Label styling */
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Error message styling */
+.error-message {
+  color: #d32f2f;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+/* Link styling */
+.auth-link {
+  color: #2196F3;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 16px;
+  display: inline-block;
+}
+
+.auth-link:hover {
+  text-decoration: underline;
+}
+
+/* Add some spacing between form elements */
+.form-group {
+  margin-bottom: 20px;
+}
+
+/* Title styling */
+.form-title {
+  text-align: center;
+  margin-bottom: 24px;
+  color: #333;
+}
