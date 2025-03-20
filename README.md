@@ -6,10 +6,10 @@ _A safe and accessible platform that helps individuals find nearby homeless shel
 Haven addresses the challenge of finding available shelter space in real time for individuals in need, especially in emergency situations, by providing up-to-date shelter information.
 
 🔍 **Why did you choose to build this?**  
-I built this project to improve access to crucial resources for homeless individuals by using technology to monitor shelter capacity and share real-time data through an intuitive online platform.
+We built this project to improve access to crucial resources for homeless individuals by using technology to monitor shelter capacity and share real-time data through an intuitive online platform.
 
 🚀 **What impact do you hope to create?**  
-I hope to make a meaningful difference by ensuring people in need can quickly locate nearby shelters with available space, ultimately helping them access safe environments and support.
+We hope to make a meaningful difference by ensuring people in need can quickly locate nearby shelters with available space, ultimately helping them access safe environments and support.
 
 ---
 
