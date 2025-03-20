@@ -23,7 +23,7 @@ const MapPage = () => {
   const [selectedMarkerId, setSelectedMarkerId] = useState(null);
 
   const { isLoaded, loadError } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyAU0Tmj57FrER1oPYdzRELSY56BGY1lHTY",
+    googleMapsApiKey: // API KEY,
   });
 
   const onLoad = useCallback(function callback(map) {
