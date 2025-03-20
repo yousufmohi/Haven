@@ -44,4 +44,4 @@ I hope to make a meaningful difference by ensuring people in need can quickly lo
 ---
 
 ## **License 📝**  
-📄 MIT License  
+This project is licensed under the [MIT License](./LICENSE).
