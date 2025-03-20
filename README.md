@@ -39,7 +39,7 @@ We hope to make a meaningful difference by ensuring people in need can quickly l
 
 ## **Resources 📚**  
 - [Devpost](https://devpost.com/software/haven-t87sv3)  
-- [Original Github Repository](https://github.com/Hermit20)  
+- [Original Github Repository](https://github.com/Hermit20/Haven)  
 
 ---
 
