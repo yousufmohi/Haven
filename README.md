@@ -14,10 +14,10 @@ We hope to make a meaningful difference by ensuring people in need can quickly l
 ---
 
 ## **Features ✨**  
-✅ **Real-Time Shelter Monitoring** - Continuously updates shelter capacity based on Raspberry Pi sensor data.  
-✅ **Nearby Shelter Map Integration** - Displays shelters on an interactive map using Google Maps API, highlighting the closest options to the user.  
-✅ **Capacity Alerts** - Notifies users when a shelter is at full capacity or has available space.  
-✅ **Dynamic Shelter Updates** - Updates shelter data in real time to reflect changes in occupancy or availability.  
+**Real-Time Shelter Monitoring** - Continuously updates shelter capacity based on Raspberry Pi sensor data.  
+**Nearby Shelter Map Integration** - Displays shelters on an interactive map using Google Maps API, highlighting the closest options to the user.  
+**Capacity Alerts** - Notifies users when a shelter is at full capacity or has available space.  
+**Dynamic Shelter Updates** - Updates shelter data in real time to reflect changes in occupancy or availability.  
 
 ---
 
@@ -31,8 +31,8 @@ We hope to make a meaningful difference by ensuring people in need can quickly l
 ---
 
 ## **How We Built It 🛠️**  
-🖥️ **Tech Stack:** React, Python, Node.js, PostgreSQL, GraphQL  
-🛠️ **Tools & Libraries:** QNX, RaspberryPi
+**Tech Stack:** React, Python, Node.js, PostgreSQL, GraphQL  
+**Tools & Libraries:** QNX, RaspberryPi
 
 ---
 
